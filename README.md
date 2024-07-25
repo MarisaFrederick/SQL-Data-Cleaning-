@@ -1,5 +1,7 @@
 # SQL-Data-Cleaning-
-Combining beginner to advanced SQL skills to properly transform and explore data
+This project contains two SQL scripts, One is specifically for cleaning the data and the other to to explore and find the needed information.
+Data cleaning entails deleting duplicates, Stadardizing formats, and updating certain values if they have the wrong input or a blank value.
+
 
 ## Get Started
 1) Downloaded the CSV file and create new database in MySQL
@@ -8,5 +10,8 @@ Combining beginner to advanced SQL skills to properly transform and explore data
 
 ## Lessons Learned
 The first piece of knowledge gained from this project is it's important to create staging tables. The raw data should remain the same in case a mistake is made when changing the dataset.
+
+## Reference
+https://www.youtube.com/watch?v=4UltKCnnnTA&t=634s
 
 
